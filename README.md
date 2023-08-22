@@ -1,1 +1,2 @@
 # ML-Breast-Cancer
+This code repository showcases an advanced machine-learning solution designed to identify breast cancer cases through the utilization of diverse classification algorithms. By harnessing the power of Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, and Random Forest models, this project has accomplished an outstanding accuracy rate of 99%. The model is built upon a comprehensive dataset that encompasses several essential features related to breast cancer diagnosis. <br/>

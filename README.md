@@ -1,7 +1,7 @@
 # ML-Breast-Cancer-Prediction
 ## Project Description
 This code repository showcases an advanced machine-learning solution designed to identify breast cancer cases through the utilization of diverse classification algorithms. By harnessing the power of Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, and Random Forest models, this project has accomplished an outstanding accuracy rate of 99%. The model is built upon a comprehensive dataset that encompasses several essential features related to breast cancer diagnosis. <br/>
-Data description can be founded here -[Cancer_Prediction.ipynb](https://github.com/Vlad-ies/ML-Breast-Cancer-Prediction/blob/main/Cancer_Prediction.ipynb) <br/>
+Data description can be found here -[Cancer_Prediction.ipynb](https://github.com/Vlad-ies/ML-Breast-Cancer-Prediction/blob/main/Cancer_Prediction.ipynb) <br/>
 The data was taken from Kaggle. <br/>
 ## Contribution
 If you wish to contribute, kindly adhere to the following instructions:
